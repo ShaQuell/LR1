@@ -1,0 +1,7 @@
+C:\Users\38073\source\repos\LR1\LR1\bin\Debug\LR1.exe.config
+C:\Users\38073\source\repos\LR1\LR1\bin\Debug\LR1.exe
+C:\Users\38073\source\repos\LR1\LR1\bin\Debug\LR1.pdb
+C:\Users\38073\source\repos\LR1\LR1\obj\Debug\LR1.csprojAssemblyReference.cache
+C:\Users\38073\source\repos\LR1\LR1\obj\Debug\LR1.csproj.CoreCompileInputs.cache
+C:\Users\38073\source\repos\LR1\LR1\obj\Debug\LR1.exe
+C:\Users\38073\source\repos\LR1\LR1\obj\Debug\LR1.pdb
