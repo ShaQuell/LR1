@@ -10,7 +10,7 @@ namespace LR1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Hello Dolly!");
+            Console.WriteLine("Hello World! Hello Dolly! Hello everyone!");
             Console.ReadLine();
         }
     }
